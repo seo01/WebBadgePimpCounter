@@ -1,0 +1,5 @@
+=== A Very Simple Counter ===
+
+This provides counter provides counts of impressions to webpages in the style of a web badge. This may be a little 2005 in design and 1999 in function but it adds a suitable retro touch to your page. Simply imbed a link to the counter.php file passing in the url path you wish to increment and display the count of as a get variable. Counts are stored in small files in the file system (so no DB involved) and have readable filenames matching the pages they correspond to.
+
+An example of a generated badge can be seen in the examples directory.
